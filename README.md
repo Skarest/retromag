@@ -9,6 +9,10 @@ Carousel/ System View
 
 Detail/ Video View
 
+![screen3](https://github.com/Skarest/retromag/assets/155885036/0f192400-46e0-474d-9957-4b0910bc4886)
+
+Menu/ Options View
+
 Available in german and english (magazine cover/texts).
 
 Finished systems:
