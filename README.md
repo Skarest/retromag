@@ -1,4 +1,7 @@
 # retromag
+
+![screen0](https://github.com/Skarest/retromag/assets/155885036/1db7e552-7504-4a7c-a78c-f97d80726647)
+
 A Theme for Batocera v38, inspired by gaming magazines of the 90s.
 
 ![screen1](https://github.com/Skarest/retromag/assets/155885036/64c7172b-378e-4992-809e-c5e196504f59)
