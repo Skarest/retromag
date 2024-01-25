@@ -50,9 +50,9 @@ https://www.youtube.com/watch?v=1w1QQtXUtX0
 
 https://github.com/RetroHursty69/es-theme-magazinemadness
 - All cover designs are scans and redesigns of original game packaging, partially edited with AI editing/enhancements.
-- All texts from wikipedia.de /.org
-- All Logo´s by Dan Patrick (Systemlogos)
+- All texts from wikipedia.de /.org.
+- All Logo´s by Dan Patrick (Systemlogos).
 
 https://forums.launchbox-app.com/files/file/3402-v2-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/
-- All auto-lists covers AI made by adobe firefly 1
+- All auto-lists covers AI made by adobe firefly 1.
   
