@@ -42,14 +42,17 @@ Auto-Lists:
 Thx & Credit
 
 - Thanks for all the helpful posts in the Batocera Discord channel and fabricecaruso for his THEME.md and THEMES_BINDINGS.md.
+
 https://github.com/batocera-linux/batocera-emulationstation/blob/master/THEMES.md
 - Thanks to Dwayne Hurst for his YouTube videos and his magazine-madness theme that got the whole project going.
+
 https://www.youtube.com/watch?v=1w1QQtXUtX0
 
 https://github.com/RetroHursty69/es-theme-magazinemadness
 - All cover designs are scans and redesigns of original game packaging, partially edited with AI editing/enhancements.
 - All texts from wikipedia.de /.org
 - All Logo´s by Dan Patrick (Systemlogos)
+
 https://forums.launchbox-app.com/files/file/3402-v2-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/
 - All auto-lists covers AI made by adobe firefly 1
   
