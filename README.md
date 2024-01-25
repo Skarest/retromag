@@ -1,7 +1,15 @@
 # retromag
 A Theme for Batocera v38, inspired by gaming magazines of the 90s.
 
+![screen1](https://github.com/Skarest/retromag/assets/155885036/64c7172b-378e-4992-809e-c5e196504f59)
+
+Carousel/ System View
+
+![screen2](https://github.com/Skarest/retromag/assets/155885036/d211bfc9-b81e-4070-8abf-2822ea73ec7f)
+
+Detail/ Video View
 Available in German and English (magazine cover/texts)
+
 Finished systems:
 - Amiga
 - AmigaCd32
