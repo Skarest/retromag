@@ -1,0 +1,18 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text></text>
+		</text>
+		<text name="longdescription" extra="true"><text>A list of games where retro achievements can be earned.</text>
+		</text>
+	
+	</view>
+		
+
+	
+</theme>

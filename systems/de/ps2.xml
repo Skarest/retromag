@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>2000  ·  128-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+		<text>Die PlayStation 2 (kurz PS2) ist eine stationäre Spielkonsole, die von Sony Computer Entertainment am 4. März 2000 in Japan veröffentlicht wurde. Die PlayStation 2 stand in direkter Konkurrenz zum Nintendo GameCube, der Sega Dreamcast und Microsofts Xbox. Die PlayStation 2 belegt mit rund 157,68 Millionen verkauften Einheiten Platz 1 der meistverkauften Spielkonsolen. Der Prozessor (CPU) der PS2, die Emotion Engine (EE), ist ein auf 294,912 MHz getakteter Prozessor (spätere Versionen 299 MHz). Zusätzlich zum integrierten Videospeicher dienen der PS2 32 MByte RAM als Arbeitsspeicher. Zum Lesen der PS2-Spiele ist ein CD/DVD-Kombilaufwerk mit 24×/4×-Geschwindigkeit eingebaut, mit dem man auch DVD-Videos und Audio-CDs abspielen kann. Außerdem unterstützt die Konsole Dolby Digital und DTS-Soundkodierung.</text>
+</text>		
+		
+	</view>
+	
+</theme>

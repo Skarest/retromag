@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1977  ·  8-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+			<text>Das Atari Video Computer System oder auch Atari VCS ist eine der ersten Spielkonsolen des US-amerikanischen Herstellers Atari, Inc. Es basiert auf dem Mikroprozessor MOS 6507, einer eigens für Atari produzierten Variante des MOS 6502. Das Gerät kam 1977 zunächst nur in den Vereinigten Staaten in den Handel, später weltweit. Ende der 1970er-Jahre war es auch in der Bundesrepublik Deutschland erhältlich.Mit Einführung der Nachfolgekonsole Atari 5200 im Jahr 1982 benannte Atari das Gerät in Atari 2600 um. Die Produktion wurde Ende 1991 eingestellt.Atari verkaufte weltweit etwa 30 Millionen Atari VCS 2600, wie die Gesamtheit aller Modelle zusammenfassend auch genannt wird. Ataris VCS 2600 gilt als eine der wirtschaftlich und kulturell bedeutendsten Konsolen der Videospielgeschichte.</text>	
+		</text>
+		
+	</view>
+	
+</theme>

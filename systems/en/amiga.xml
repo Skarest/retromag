@@ -1,0 +1,16 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	         
+		<text name="shortdescription" extra="true">
+			<text>1985  ·  16-bit Computer</text>
+		</text>
+		<text name="longdescription" extra="true">
+			<text>Amiga is a family of personal computers introduced by Commodore in 1985. The original model is one of a number of mid-1980s computers with 16- or 16/32-bit processors, 256 KB or more of RAM, mouse-based GUIs, and significantly improved graphics and audio compared to previous 8-bit systems. These systems include the Atari ST—released earlier the same year—as well as the Macintosh and Acorn Archimedes. Based on the Motorola 68000 microprocessor, the Amiga differs from its contemporaries through the inclusion of custom hardware to accelerate graphics and sound, including sprites and a blitter, and a pre-emptive multitasking operating system called AmigaOS. Poor marketing and the failure of later models to repeat the technological advances of the first systems resulted in Commodore quickly losing market share to the rapidly dropping prices of IBM PC compatibles, which gained 256 color graphics in 1987, as well as the fourth generation of video game consoles.</text>
+		</text>
+		
+	</view>
+	
+</theme>

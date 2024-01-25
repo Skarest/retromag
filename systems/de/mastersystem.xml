@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1985  ·  8-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+		<text>Das Sega Master System (kurz SMS) ist eine 8-Bit-Heimvideospielkonsole des japanischen Unternehmens Sega. Es stand in direkter Konkurrenz zum NES von Nintendo. Eine Verbesserung zu seinen Vorgängern stellten die größere Farbpalette, besseres Audio über die separat erhältliche FM-Unit und mehr interner Arbeitsspeicher dar. In Europa wurde das Master System von Sega in vielen verschiedenen Ländern vermarktet, darunter sogar einige, in denen Nintendo keine Konsolen verkaufte. Europäer gewährten dem SMS breite Third-Party-Unterstützung, so dass es das NES in diesem Markt übertraf. Nintendo war gezwungen, Lizenzen für einige beliebte SMS-Titel in diesem Markt zu erwerben. Bis 1994 war das Master System die Konsole in Europa mit der größten Installationsbasis von 6,25 Mio. Geräten.</text>
+		</text>
+		
+	</view>
+	
+</theme>

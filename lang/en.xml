@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <!-- English -->
+  <variables lang="en">
+    <infobox1>Games</infobox1>
+	<infobox2>Favourite</infobox2>
+	<infobox3>Last played</infobox3>
+	<installed>Installed Games</installed>
+	<inhalt>Summary</inhalt>
+
+
+  </variables>  
+</theme>

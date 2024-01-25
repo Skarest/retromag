@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1996  ·  64-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+<text>Das Nintendo 64 benannt nach seinem 64-Bit-Hauptprozessor, ist die dritte weltweit veröffentlichte stationäre Spielkonsole von Nintendo. Sie ist der Nachfolger des Super Nintendo Entertainment Systems (SNES) und die erste Spielkonsole mit einer 64-Bit-Architektur. Veröffentlicht wurde sie erstmals am 23. Juni 1996 in Japan und am 1. März 1997 in Europa. Als Spielkonsole konkurrierte sie hauptsächlich mit der PlayStation von Sony und dem Sega Saturn, konnte bezüglich der Verkaufszahlen jedoch nur die letztere Konsole schlagen.
+Nintendo bewarb das Gerät zur Veröffentlichung als schnellstes Videospielsystem auf dem Markt. Besonders hervorgehoben wurde dabei die 64-Bit-Architektur des Prozessors, die Konkurrenzkonsolen PlayStation und Sega Saturn arbeiteten nur mit 32 Bit.</text></text>		
+		
+	</view>
+	
+</theme>

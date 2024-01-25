@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1979  ·  8-bit Computer</text>
+		</text>
+		<text name="longdescription" extra="true">
+<text>Der Atari 800 ist ein auf dem 6502-Mikroprozessor basierender Heimcomputer des US-amerikanischen Herstellers Atari, Inc.
+Der Atari 800 wurde ab Ende 1979 zunächst nur im US-amerikanischen Versandhandel angeboten und wegen seiner vielseitigen Möglichkeiten zur Erweiterung und damit Zukunftsfähigkeit massiv als „zeitloser Computer“ angepriesen. Nach verschiedenen von Atari angestoßenen Kooperationen im Bildungssektor, der Veröffentlichung von Spiele-Kassenschlagern wie Star Raiders und dem Ausbau des Atari-Händlernetzes gelang es, die Bekanntheit kontinuierlich zu steigern. Verkaufsfördernd kam die ab Mitte 1981 vollzogene Expansion nach Europa hinzu, die schließlich in der bis Ende 1982 währenden Marktführerschaft Ataris gipfelte.</text>		</text>
+		
+	</view>
+	
+</theme>

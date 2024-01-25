@@ -1,0 +1,18 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1993  ·  32-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+<text>Das CD³² war eine von Commodore International auf Basis des Amiga 1200 entwickelte Spielkonsole mit CD-ROM-Laufwerk – und der Nachfolger des CDTV.
+Es war die erste Spielkonsole auf dem europäischen Markt mit 32-Bit-Architektur und als Konkurrenzprodukt zu Philips’ CD-i gedacht. Die Amiga-1200-Basis wurde auf das zum Spielen nötige reduziert und ein CD-Laufwerk hinzugefügt. Über einen Einschub an der Rückseite konnte das CD³² aber zu einem vollwertigen Amiga oder alternativ zu einem Video-CD-Player erweitert werden. Das CD³² war Teil einer Reihe von Konsolen, die sich am Markt nicht behaupten konnten. Commodore hatte das Sega Mega-CD als Hauptkonkurrent ins Auge gefasst. Zu Lebzeiten des CD³² erschienen außerdem das 3DO und der Atari Jaguar. Das CD³² war die letzte Hoffnung Commodores, der Pleite zu entgehen, was jedoch nicht gelang.</text>
+		</text>
+		
+	</view>
+	
+</theme>

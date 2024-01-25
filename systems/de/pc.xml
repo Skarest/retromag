@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1981  ·  Desktop Computers</text>
+		</text>
+		<text name="longdescription" extra="true">
+			<text>MS-DOS, kurz für Microsoft Disk Operating System, ist Microsofts erstes Betriebssystem für x86-PCs und das Referenzsystem für PC-kompatibles DOS. Das von IBM für den IBM PC vertriebene PC DOS entspricht bis Version 6 MS-DOS der jeweils gleichen Version. Es wurde ursprünglich für den Intel-Prozessor 8086/8088 entwickelt und war in den späten 1980er und frühen 1990er Jahren das dominierende Betriebssystem für Einzelplatzrechner. Oft steht MS-DOS als Plattform und Spieleplattform für Programme und Computerspiele der späten 1980er und 1990er Jahre, obwohl diese auch auf anderen kompatiblen DOS-Versionen laufen. Im April 1981 hatte 86-DOS den Versionsstand 1.0 erreicht. Ab Mai 1981 arbeitete Tim Paterson für Microsoft. Am 27. Juli 1981 kaufte Microsoft schließlich alle Rechte an 86-DOS und entwickelte es fortan unter dem Namen MS-DOS weiter.</text>
+		</text>
+		
+	</view>
+	
+</theme>

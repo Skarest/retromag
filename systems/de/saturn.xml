@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1994  ·  32-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+		<text>Der Sega Saturn ist eine stationäre Spielkonsole des japanischen Unternehmens Sega, die erstmals am 22. November 1994 in Japan veröffentlicht wurde. Zum Ende der 16-Bit-Konsolenära hatte Sega weltweit hinter Nintendo den zweiten Platz im Konsolengeschäft inne. Der Veröffentlichungstermin für Nintendos Nachfolger für das SNES, das spätere Nintendo 64, verschob sich immer weiter nach hinten, so dass Sega mit dem Mega-Drive-Nachfolger Saturn eine gute Chance hatte, sich besser am Markt zu positionieren. Da sich mit Sonys PlayStation ein starker Marktmitbewerber etablierte, konnte Sega diese Erwartung nicht erfüllen. Die Hardware des Saturn, mit zwei Hauptprozessoren und sechs weiteren Prozessoren, machte es schwer, die maximale Leistung der Konsole voll auszunutzen, da das Parallel-Design für viele Spieleentwickler zu komplex war und auch noch heute ist.</text>
+</text>		
+		
+	</view>
+	
+</theme>

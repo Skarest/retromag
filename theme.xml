@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Theme: Retromag 2.0
+Original author: Skarest
+License: creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>7</formatVersion>
+  
+  <variables>
+		<fontColor>4a4a4a</fontColor>
+		<iconColor>#4D5C88</iconColor>
+		<grey1>616162</grey1>
+		<grey2>434343</grey2>
+		<blue>#393A3D</blue>
+		<orange>#B39547</orange>
+		<font1>./_inc/font/opensans_hebrew_condensed_regular.ttf</font1>
+		<font2>./_inc/font/opensans_hebrew_condensed_light.ttf</font2>
+		<infobox1>Spiele</infobox1>
+		<infobox2>Favorit</infobox2>
+		<infobox3>Zuletzt gespielt</infobox3>
+		<installed>Installierte Spiele</installed>
+		<inhalt>Inhalt</inhalt>
+
+	</variables>
+	<include lang="de">./lang/de.xml</include>
+	<include lang="en">./lang/en.xml</include>
+	<include>./views/system.xml</include>
+	<include>./views/helpsystem.xml</include>
+	<include>./views/screen.xml</include>
+	<include>./views/carousel.xml</include>
+	<include>./views/menu.xml</include>
+	<include>./views/viewGridDetail.xml</include>
+	<include>./views/${lang}/gl.xml</include>
+	<include>./systems/${lang}/${system.theme}.xml</include>
+	
+	
+</theme>

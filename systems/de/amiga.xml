@@ -1,0 +1,18 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1985  ·  16-bit Computer</text>
+		</text>
+		<text name="longdescription" extra="true">
+			<text>Der Commodore Amiga (‚Freundin‘) war von Mitte der 1980er bis Anfang/Mitte der 1990er eine weit verbreitete Reihe von Computern.
+Insbesondere die Einsteigermodelle (A500 und A1200) waren als Heimcomputer beliebt. Der Amiga 500 wurde der nach verkauften Einheiten erfolgreichste Amiga und galt in der sich schnell entwickelnden Szene als Kult und Computer für Millionen. Für ihre Zeit hatten Amiga-Computer ausgeprägte Multimediafähigkeiten und ein leistungsfähiges Multitasking-Betriebssystem. In der Commodore-Zeit arbeiteten sie durchgängig mit Prozessoren der Motorola-68000er-Familie. Es begann mit dem 68000, der als 16/32-Bit-System angesehen werden kann. Später kamen die weiterentwickelten Mitglieder der Familie wie 68020, 68030, 68040 und 68060 zum Einsatz, die den Amiga zum 32-Bit-System machten.</text>
+		</text>
+		
+	</view>
+	
+</theme>

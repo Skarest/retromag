@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Theme: Retromag 2.0
+Original author: Skarest
+License: creative commons CC-BY-NC-SA
+-->
+<theme>
+  <formatVersion>7</formatVersion>
+
+<view name="menu">
+	
+		<menuText name="menutitle">
+		<fontPath>${font1}</fontPath>
+			<fontSize>0.046</fontSize>
+			<color>ffffff</color>
+		</menuText>
+	
+		<menuBackground name="menubg">
+			<color>242424ee</color>
+			<cornerSize>32 32</cornerSize>
+		</menuBackground>
+		
+		<menuText name="menutext">
+		<fontPath>${font1}</fontPath>
+			<fontSize>0.032</fontSize>
+			<color>969696</color>
+			<separatorColor>323232FF</separatorColor>
+			<selectorColor>${iconColor}</selectorColor>
+			<selectorColorEnd>6a7eb9</selectorColorEnd>
+			<selectedColor>FFEEFF</selectedColor>
+			<selectorOffsetY>0.01</selectorOffsetY>
+			<selectorGradientType>vertical</selectorGradientType>
+		</menuText>
+		
+		<menuText name="menufooter">
+		<fontPath>${font2}</fontPath>
+			<fontSize>0.02</fontSize>
+			<color>777777FF</color>
+		</menuText>
+		
+		<menuIcons name="menuicons">
+			<iconKodi>./_inc/UI/icons/Kodi.png</iconKodi>
+			<iconSystem>./_inc/UI/icons/System.png</iconSystem>
+			<iconUpdates>./_inc/UI/icons/Updates.png</iconUpdates>
+			<iconGames>./_inc/UI/icons/Games.png</iconGames>
+			<iconControllers>./_inc/UI/icons/Controllers.png</iconControllers>
+			<iconUI>./_inc/UI/icons/UI.png</iconUI>
+			<iconSound>./_inc/UI/icons/Sound.png</iconSound>
+			<iconNetwork>./_inc/UI/icons/Network.png</iconNetwork>
+			<iconScraper>./_inc/UI/icons/Scraper.png</iconScraper>
+			<iconAdvanced>./_inc/UI/icons/Advanced.png</iconAdvanced>
+			<iconQuit>./_inc/UI/icons/Quit.png</iconQuit>
+			<iconRestart>./_inc/UI/icons/Restart.png</iconRestart>
+			<iconShutdown>./_inc/UI/icons/Shutdown.png</iconShutdown>
+			<iconFastShutdown>./_inc/UI/icons/Fastshutdown.png</iconFastShutdown>
+			<iconRetroachievements>./_inc/UI/icons/Contest.png</iconRetroachievements>
+		</menuIcons>
+	
+	</view>
+  
+
+</theme>

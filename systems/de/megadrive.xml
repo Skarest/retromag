@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1988  ·  16-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+		<text>Das Sega Mega Drive (in Nordamerika als Sega Genesis vermarktet) ist eine 16-Bit-Heimvideospielkonsole des japanischen Unternehmens Sega. Sie kam 1988 auf den Markt und stand später hauptsächlich in Konkurrenz zum Super Nintendo Entertainment System. Am Ende der 1980er Jahre liefen 16-Bit-Computer wie der Amiga und der Atari ST sowie 16-Bit-Arcade-Geräte den 8-Bit-Videospielkonsolen den Rang ab. Darüber hinaus hatte Segas Konkurrent Nintendo 95 Prozent des nordamerikanischen Videospielmarktes und 92 Prozent des japanischen Markts inne. Lediglich in Europa waren Nintendos 8-Bit- und 16-Bit-Geräte nicht derart erfolgreich. Sega wusste, dass das Sega Master System es nicht schaffen würde, diese Stellung in Nordamerika und Japan anzufechten, also entschloss man sich, die Herstellung einer neuen Konsole einzuleiten. Primäre CPU: 16-Bit-Prozessor Motorola 68000 mit 7,60 MHz (PAL).</text>
+		</text>
+		
+	</view>
+	
+</theme>

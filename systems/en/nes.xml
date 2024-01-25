@@ -1,0 +1,18 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1983  ·  8-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+		<text>The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console produced by Nintendo. It was first released in Japan in 1983 as the Family Computer (FC), commonly referred to as Famicom. It was redesigned to become the NES, which was released in American test markets on October 18, 1985, and was soon fully launched in North America and other regions.
+After developing several successful arcade games in the early 1980s such as Donkey Kong (1981), Nintendo planned to create a home video game console. Rejecting more complex proposals, the Nintendo president Hiroshi Yamauchi called for a simple, cheap console with games stored on cartridges. The NES features several groundbreaking games, such as the 1985 platform game Super Mario Bros. and the 1986 action-adventure games The Legend of Zelda and Metroid, which became long-running franchises. It was succeeded in 1990 by the Super Nintendo Entertainment System.</text>
+</text>		
+		
+	</view>
+	
+</theme>

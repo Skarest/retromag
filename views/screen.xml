@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Theme: Retromag 2.0
+Original author: Skarest
+License: creative commons CC-BY-NC-SA
+-->
+<theme>
+  <formatVersion>7</formatVersion>
+
+<view name="screen">
+
+	<text name="clock">
+		<pos>0.959 0.995</pos>
+		<size>w h</size>
+		<origin>0 1</origin>
+		<color>${grey1}</color>
+		<fontPath>${font1}</fontPath>
+		<alignment>right</alignment>
+		<fontSize>0.03</fontSize>
+    </text>
+	
+	  <batteryIndicator name="batteryIndicator">
+      <pos>0.975 0.012</pos>
+      <size>0.02 0.02</size>
+      <horizontalAlignment>left</horizontalAlignment>
+      <incharge>./_inc/UI/battery/incharge.svg</incharge>
+      <full>./_inc/UI/battery/full.svg</full>
+      <at75>./_inc/UI/battery/75.svg</at75>
+      <at50>./_inc/UI/battery/50.svg</at50>
+      <at25>./_inc/UI/battery/25.svg</at25>
+      <empty>./_inc/UI/battery/empty.svg</empty>
+      <planemodeIcon>./_inc/UI/icons/planemode.png</planemodeIcon>
+      <networkIcon>./_inc/UI/icons/Network.png</networkIcon>
+	  <color>${blue}</color>
+    </batteryIndicator>
+
+    <controllerActivity name="controllerActivity">
+      <pos>0.015 0.012</pos>
+	  <size>0.02 0.02</size>
+      <horizontalAlignment>left</horizontalAlignment>
+	  <itemSpacing>0.003</itemSpacing>
+      <color>${blue}</color>
+      <!-- controllers -->
+      <imagePath>./_inc/UI/icons/gamepad.svg</imagePath>
+      <activityColor>${iconColor}</activityColor>
+      <hotkeyColor>${grey2}</hotkeyColor>
+    </controllerActivity>
+
+</view>
+
+</theme>

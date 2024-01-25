@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Theme: Retromag 2.0
+Original author: Skarest
+License: creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<customView name="gridDetail" inherits="grid" displayName="${gridDetailViewName}">
+
+		<!-- Background-->
+		<image name="bg-game-menu" extra="true">
+	    <path>./_inc/images/backgroundmenu_detail_gridview.png</path>
+		<zIndex>2</zIndex> 			
+
+		</image>
+				
+		<image name="syslogo" extra="true">
+			<path>./_inc/logos/${system.theme}.png</path>
+			<pos>0.1 0.05</pos>
+			<color>FAAAAAAA</color>
+			<maxSize>0.25</maxSize>
+			<zIndex>5</zIndex> 		
+		<storyboard>
+        		<!-- <animation property="y" from="0.05" begin="0" duration="350" mode="easeOut"/> -->
+        		<animation property="opacity" from="0" to="0.5" duration="5500" mode="linear"/>
+        		<!-- <animation property="scale" from="0" to="1" duration="350" mode="easeOut"/> -->
+		</storyboard>			
+		</image>
+		
+		<!-- Marquee / Player / Rating -->
+		<image name="md_marquee">
+			<pos>0.81 0.193</pos>
+			<zIndex>6</zIndex> 		
+			<maxSize>0.234 0.105</maxSize>
+		</image>
+		
+		
+		<imagegrid name="gamegrid">      
+			<pos>0 0.18</pos>
+			<size>0.66 0.754</size>
+			<padding>0.03 0.05 0.03 0.04</padding>
+			<margin>0.005 0.005</margin>
+			<color>${iconColor}</color>
+            <imageSource>thumbnail</imageSource> <!-- thumbnail / titleshot / image -->
+			<autoLayout>5 3</autoLayout>      
+		</imagegrid>
+		  <gridtile name="default">
+			<backgroundColor>FFFFFF00</backgroundColor>
+			<backgroundCornerSize>9 9</backgroundCornerSize>
+			<selectionMode>image</selectionMode>
+			<padding>10 10</padding>
+			<imageColor>FFFFFFB0</imageColor>
+		</gridtile>
+			<gridtile name="selected">
+			<backgroundCenterColor>FFFFFFFF</backgroundCenterColor>
+			<backgroundEdgeColor>${blue}</backgroundEdgeColor>
+			<imageColor>FFFFFFFF</imageColor>
+		</gridtile>
+		
+		<image name="md_image">
+			<visible>false</visible>
+		</image>
+				
+		<text name="md_name">
+			<pos>0.651 0.59</pos>
+			<color>FFFFFFFF</color>
+			<fontSize>0.025</fontSize>
+		    <fontPath>${font1}</fontPath>
+			<alignment>center</alignment>
+		</text>
+		
+		<video name="md_video">
+			<origin>0.5 0.5</origin>
+			<pos>0.807 0.4</pos>
+			<maxSize>0.25 0.35</maxSize>
+			<snapshotSource>image</snapshotSource> <!-- titleshot -->
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<showSnapshotDelay>false</showSnapshotDelay>
+			<delay>0</delay>
+			<zIndex>5</zIndex> 		
+		</video>
+		<text name="md_description">
+			<pos>0.652 0.64</pos>
+			<fontSize>0.020</fontSize>
+			<size>0.311 0.256</size>
+			<color>FFFFFFFF</color>
+			<visible>true</visible>
+		</text>
+		
+		<!-- Publisher und Veröffentlichung
+		
+		<text name="md_developer">
+			<pos>0.651 0.917</pos>
+			<size>0.16 0.03</size>
+			<alignment>left</alignment>
+			<fontSize>0.025</fontSize>
+			<color>${grey1}</color>
+			<visible>true</visible>
+		</text>
+		<datetime name="md_releasedate">
+			<pos>0.818 0.917</pos>
+			<size>0.08 0.03</size>
+			<alignment>right</alignment>
+			<fontSize>0.025</fontSize>
+			<color>${grey1}</color>
+			<visible>true</visible>
+		</datetime> -->
+	
+	</customView>
+	
+</theme>

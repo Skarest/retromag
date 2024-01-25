@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1990  ·  16-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+		<text>Das Super Nintendo Entertainment System (meist abgekürzt als Super Nintendo, Super NES, Super-NES oder SNES ist eine stationäre 16-Bit-Spielkonsole des japanischen Unternehmens Nintendo. Es ist die zweite weltweit veröffentlichte stationäre Spielkonsole des Unternehmens und sein Controller, der SNES-Controller, führte die Schultertasten ein, die fortan zum Standard der meisten nachfolgend erschienenen Gamepads wurden. Veröffentlicht wurde das Super Nintendo Entertainment System erstmals am 21. November 1990 in Japan und am 11. April 1992 schließlich auch in Europa. Das Super Nintendo Entertainment System ist der Vorgänger des Nintendo 64 (N64) und der Nachfolger des Nintendo Entertainment System (NES). Als größter Kritikpunkt bei der Einführung des SNES in Japan wurde der vergleichsweise schwache 65C816-Hauptprozessor genannt (Taktfrequenz von maximal 3,58 MHz).</text>
+</text>		
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1986  ·  8-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+			<text>Der Atari 7800 sollte den mäßig erfolgreichen Atari 5200 ersetzen und Atari wieder eine bessere Position im Konkurrenzkampf gegen Intellivision und ColecoVision verschaffen. Mit dieser Konsole versuchte Atari, die wesentlichen Mängel des 5200 zu beheben: Die neue Konsole hatte einfache, digitale Joysticks, war abwärtskompatibel zum Atari 2600 und erschwinglich. Die technischen Leistungen des 7800 sind bis heute umstritten. Von der Architektur handelte es sich lediglich um ein Atari 2600 mit besserer CPU und besserem Grafikchip (MARIA). Der Atari 7800 litt an derselben Softwareflaute, die für alle Atari-Konsolen nach dem Videospielecrash 1983 kennzeichnend sein sollte. Relativ wenig Spiele wurden von Atari veröffentlicht, die darüber hinaus oft Mängel aufwiesen.</text>
+		</text>
+		
+	</view>
+	
+</theme>

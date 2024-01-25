@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1982  ·  8-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+			<text>The Atari 5200 SuperSystem or simply Atari 5200 is a home video game console introduced in 1982 by Atari, Inc. as a higher-end complement for the popular Atari Video Computer System.2 The VCS was renamed to the Atari 2600 at the time of the 5200's launch. Created to compete with Mattel's Intellivision, the 5200 wound up a direct competitor of ColecoVision shortly after its release. While the Coleco system shipped with the first home version of Nintendo's Donkey Kong, the 5200 included the 1978 arcade game Super Breakout which had already appeared on the Atari 8-bit family and Atari VCS in 1979 and 1981 respectively. The CPU and the graphics and sound hardware are almost identical to that of the Atari 8-bit computers, although software is not directly compatible between the two systems. The 5200's controllers have an analog joystick and a numeric keypad along with start, pause, and reset buttons. </text>
+			</text>
+		
+	</view>
+	
+</theme>

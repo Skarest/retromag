@@ -1,0 +1,18 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text></text>
+		</text>
+		<text name="longdescription" extra="true"><text>A list for all installed games.</text>
+		</text>
+	
+	</view>
+		
+
+	
+</theme>

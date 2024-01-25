@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  
+	<view name="splash">
+
+		<splash name="splash">
+			<backgroundColor>000000FF</backgroundColor>
+		</splash>
+		<image name="background">
+			<path>./_inc/images/splash_bg.jpg</path>
+		</image>
+		
+		<text name="laden, label" extra="true">
+			<fontPath>./_inc/fonts/opensans_hebrew_condensed_regular.ttf</fontPath>
+			<fontSize>0.025</fontSize>
+			<color>434343</color>
+			<forceUppercase>true</forceUppercase>
+		</text>		
+		<text name="label">
+		<pos>0.0 0.05</pos>
+		</text>	
+		<text name="laden" extra="true">
+		<pos>0.485 0.95</pos>		
+		<text>Laden..</text>
+		</text>	
+			
+		<image name="progressbar">
+			<origin>0 0</origin>
+			<!-- <pos>0.6 0.56</pos>
+			<size>0.307 0.045</size> -->
+			<pos>0.25 0.9</pos>
+			<size>0.455 0.025</size>
+			<color>909090</color>
+		</image>
+		<image name="progressbar:active">
+			<color>434343</color>
+						<size>0.455 0.025</size>
+
+
+		</image>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1994  ·  32-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+		<text>Die PlayStation kurz PS, Codename PSX, auch PS1 genannt) ist eine stationäre Spielkonsole des japanischen Unternehmens Sony, die am 3. Dezember 1994 erstmals in Japan verkauft und deren Herstellung 2006 eingestellt wurde. Mit Ken Kutaragi als Vorsitzendem der eigens dafür gegründeten Tochtergesellschaft Sony Computer Entertainment avancierte die PlayStation zu einer der bisher erfolgreichsten Spielkonsolen (102,5 Millionen verkaufte Exemplare weltweit) und stürzte im Bereich Heimkonsolen den einstigen Marktführer Nintendo vom Thron. Ursprünglich sollte Sony ein CD-Laufwerk (Add-on) für Nintendos 16-Bit-Konsole Super Nintendo Entertainment System (SNES) entwickeln, dessen Codename bereits „Nintendo PlayStation“ war. Im Gegenzug wäre es Sony erlaubt, eine eigene Konsole mit CD-ROM-Laufwerk zu entwickeln, die die damals wertvolle SNES-Technologie nutzen könnte.</text>
+</text>		
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1997  ·  Arcade Emulator</text>
+		</text>
+		<text name="longdescription" extra="true">
+<text>MAME (ursprünglich Akronym für Multiple Arcade Machine Emulator) ist ein Open-Source-Projekt mit dem Ziel, die elektronische Hardware von Videospielautomaten auf einem Computer mit Software nachzubilden und so die dazugehörenden Spiele wieder lauffähig zu machen. MAME arbeitet wie fast alle Emulatoren, indem es die gesamte Hardware eines Automaten per Software nachahmt (emuliert). Schon auf einem PC mit 500 MHz Taktfrequenz laufen die meisten älteren Spiele bis 1988 flüssig. Neuere Spiele mit 3-D Grafik wie z. B. Tekken oder Ridge Racer benötigen neuere CPUs, um Bild und Ton flüssig zu emulieren. Dies liegt an den vielen Prozessoren auf jeder Arcadeplatine, jeder einzelne Chip muss von der Computer-CPU emuliert werden; dabei wird die Arbeit bewusst nicht vom 3D-Chip der Grafikkarte übernommen, da die meisten Original-Automaten ebenfalls keinen 3D-Chip besaßen.</text>
+</text>		
+		
+	</view>
+	
+</theme>

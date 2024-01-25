@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Theme: Retromag 2.0
+Original author: Skarest
+License: creative commons CC-BY-NC-SA
+-->
+<theme>
+  <formatVersion>7</formatVersion>
+
+<view name="system">
+
+	<image name="background" extra="true">
+	<path>./_inc/images/backgroundmenu.png</path>
+	<linearSmooth>true</linearSmooth>
+	<maxSize>1 1</maxSize>
+	<zIndex>1</zIndex>
+	</image>
+		
+	<image name="logo" if="{system.collection}">
+		<path>./_inc/carousel/${lang}/${system.theme}.png</path>
+		<linearSmooth>true</linearSmooth>
+	</image>
+	
+	<image name="logo">
+		<path>./_inc/carousel/${lang}/${system.theme}.png</path>
+		<linearSmooth>true</linearSmooth>
+    </image>
+
+<text name="shortdescription" extra="true">
+			<fontPath>${font2}</fontPath>
+			<alignment>left</alignment>
+			<forceUppercase>0</forceUppercase>
+			<fontSize>0.021</fontSize>
+			<color>434343</color>
+			<origin>0 0</origin>
+			<pos>0.1 0.042</pos>
+			<size>0.320 0.033</size>
+		</text>
+		
+<!-- Text zum System -->
+
+        <text name="longdescription" extra="true">
+			<fontPath>${font1}</fontPath>
+			<alignment>left</alignment>
+			<forceUppercase>0</forceUppercase>
+			<fontSize>0.021</fontSize>
+			<color>434343</color>
+			<pos>0.1 0.245</pos>
+			<size>0.221 0.0</size>
+		</text>
+
+<!-- Systemname -->
+		
+    <text name="fullName" extra="true">
+		<text>${system.fullName}</text>
+		<pos>0.1 0.134</pos>
+		<size>.25 .08</size>
+		<origin>0 1</origin>	
+		<alignment>left</alignment>
+		<verticalAlignment>bottom</verticalAlignment>
+		<lineSpacing>1.15</lineSpacing>
+		<color>${fontColor}</color>
+		<forceUppercase>true</forceUppercase>
+		<fontPath>${font1}</fontPath>
+		<fontSize>0.04</fontSize>
+		<zIndex>4</zIndex>
+	</text>
+	
+<!-- Infobox zum System -->
+	
+	<text name="systemInfo" visible="false"/>
+	<text name="systemInfoEx" extra="true">
+	<text>
+${infobox1} : {binding:total}
+${infobox2} : {binding:mostPlayed}
+${infobox3} : {binding:lastPlayedDate}
+	</text>
+		<pos>0.1 0.12</pos>
+		<size>.26 .18</size>
+		<verticalAlignment>top</verticalAlignment>
+		<backgroundColor>00000000</backgroundColor>
+		<color>${fontColor}</color>
+		<fontPath>${font2}</fontPath>
+		<fontSize>0.022</fontSize>
+		<lineSpacing>1.2</lineSpacing>
+		<zIndex>4</zIndex>
+    </text>
+	
+<!-- Gespielt : {binding:gamesPlayed} -->
+
+	
+</view>
+
+
+
+  
+
+</theme>

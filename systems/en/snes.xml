@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1990  ·  16-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+	<text>The Super Nintendo Entertainment System, commonly shortened to Super Nintendo, Super NES or SNES, is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America and 1992 in Europe and Oceania. In Japan, it is called the Super Famicom (SFC). In South Korea, it is called the Super Comboy and was distributed by Hyundai Electronics. The Super NES is Nintendo's second programmable home console, following the Nintendo Entertainment System (NES). The console introduced advanced graphics and sound capabilities compared with other systems at the time. The Super NES received largely positive reviews and was a global success, becoming the bestselling console of the 16-bit era after launching relatively late and facing intense competition from Sega's Genesis console in North America and Europe. Overlapping the NES's 61.9 million unit sales, the Super NES remained popular well into the 32-bit era.</text>
+</text>		
+		
+	</view>
+	
+</theme>

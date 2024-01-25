@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1982  ·  8-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+			<text>Der Atari 5200 war eine stationäre Spielkonsole aus dem Jahre 1982 und sollte seinen erfolgreichen Vorgänger Atari 2600 ablösen und den Konkurrenzkonsolen wie dem Intellivision von Mattel Paroli bieten. Technisch gesehen ist die Konsole mit den Heimcomputern von Atari nahezu identisch, lediglich die Joystickanschlüsse und der Modulport waren inkompatibel. Im Innern des Geräts arbeiten eine 6502C-CPU (Custom-Design des MOS 6502) und die bekannten Custom Chips ANTIC und POKEY, außerdem ist wie bei neueren Atari-Heimcomputern der GTIA vorhanden. Von Atari selbst wurden 69 offizielle Spiele für den Atari 5200 veröffentlicht. Die meisten davon sind bekannte Atari-Arcade-Spiele, die größtenteils auch auf dem Atari 2600 erschienen. Viele Spiele nutzen hier jedoch die größere Farbpalette aus.</text>
+		</text>
+		
+	</view>
+	
+</theme>

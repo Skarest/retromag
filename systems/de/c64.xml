@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1982  ·  8-bit Computer</text>
+		</text>
+		<text name="longdescription" extra="true">
+<text>Der Commodore 64 (kurz C64, umgangssprachlich 64er oder Brotkasten) ist ein 8-Bit-Heimcomputer mit 64 KB Arbeitsspeicher.
+Seit seiner Vorstellung im Januar 1982 auf der Winter Consumer Electronics Show war der von Commodore gebaute C64 Mitte bis Ende der 1980er Jahre sowohl als Spielcomputer als auch zur Softwareentwicklung äußerst populär. Er galt lange Zeit als der meistverkaufte Heimcomputer weltweit – Schätzungen der Verkaufszahlen bewegen sich zwischen 12,5 und 30 Millionen Exemplaren. Der C64 bot viel Technik und gute Erweiterbarkeit zu einem (nach der Einführungsphase) erschwinglichen Preis.
+Der Prozessor ist ein 6510 (8500 beim C64C/II), eine Variante des 6502 von MOS Technology.</text>
+</text>		
+		
+	</view>
+	
+</theme>

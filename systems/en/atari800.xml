@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1979  ·  8-bit Computer</text>
+		</text>
+		<text name="longdescription" extra="true">
+<text>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 with the Atari 400 and Atari 800. As the first home computer architecture with coprocessors, it has graphics and sound more advanced than most of its contemporaries. Video games were a major appeal, and first-person space combat simulator Star Raiders is considered the platform's killer app. The "Atari 8-bit family" label was not contemporaneous. Atari, Inc., used the term "Atari 800 (or 400) home computer system", often combining the model names into "Atari 400/800" or "Atari home computers". Two million Atari 8-bit computers were sold during its major production run between late 1979 and mid-1985. In 1984, Atari reported 4 million owners of its computers and its 5200 game console combined. The primary global competition came when the similarly equipped Commodore 64 was introduced in 1982. </text>		
+</text>
+		
+	</view>
+	
+</theme>

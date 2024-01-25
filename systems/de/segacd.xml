@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1991  ·  16-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+		<text>Das Sega Mega-CD ist ein CD-ROM-Laufwerk für den Sega Mega Drive um Spiele von CDs zu spielen. Das erstmals 1991 in Japan erschienene Gerät wurde unterhalb des Mega Drives angeschlossen und besitzt eine ausfahrbare CD-Lade. Diese Version erschien 1992 auch in den USA. 1993 wurde weltweit das stark kostenreduzierte Sega Mega-CD II veröffentlicht, welches auf die ausfahrbare Lade verzichtet und diese durch ein sich nach oben öffnendes Toploader CD-Laufwerk ersetzt. Dieses Gerät wird an der rechten Seite des Mega Drives angeschlossen. Das Mega-CD besitzt einen eigenen, mit 12,5 MHz getakteten, 68000-Prozessor. Darüber hinaus verfügt die Konsole über einen zusätzlichen Grafikchip, der Skalierungs- und Rotationseffekte ermöglicht. Die Audioeigenschaften des Mega Drives werden ebenfalls um 8 PCM-Kanäle erweitert.</text>
+</text>		
+		
+	</view>
+	
+</theme>

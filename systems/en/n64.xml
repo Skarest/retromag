@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1996  ·  64-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+<text>The Nintendo 64 (N64) is a home video game console developed by Nintendo. It was released on June 23, 1996, in Japan; on September 29, 1996, in North America; and on March 1, 1997, in Europe and Australia. The successor to the Super Nintendo Entertainment System, it was the last major home console to use cartridges as its primary storage format until the Nintendo Switch in 2017. It competed primarily with the Sony PlayStation and the Sega Saturn.Time named it Machine of the Year in 1996, and in 2011, IGN named it the ninth-greatest video game console of all time. The Nintendo 64 was discontinued in 2002 following the 2001 launch of its successor, the GameCube. The Nintendo 64 was critically acclaimed and remains one of the most recognized video game consoles.</text>
+</text>		
+		
+	</view>
+	
+</theme>

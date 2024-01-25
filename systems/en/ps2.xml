@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>2000  ·  128-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+		<text>The PlayStation 2 (PS2) is a home video game console developed and marketed by Sony Interactive Entertainment. It was first released in Japan on 4 March 2000, in North America on 26 October 2000 and in Europe on 24 November 2000. It is the successor to the original PlayStation, as well as the second installment in the PlayStation brand of consoles. As a sixth-generation console, it competed with Nintendo's GameCube, Sega's Dreamcast, and Microsoft's Xbox. It is the best-selling video game console of all time, having sold over 155 million units worldwide, nearly triple the combined sales of the Dreamcast, GameCube, and Xbox. Announced in 1999, Sony began developing the console after the immense success of its predecessor. The highlight of the system was its Emotion Engine processor, co-developed by Sony and Toshiba, which was said to be more powerful than personal computers. The PS2 offered backward-compatibility for its predecessor's DualShock controller, as well as its games.</text>
+</text>		
+		
+	</view>
+	
+</theme>

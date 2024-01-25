@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Theme: Retromag 2.0
+Original author: Skarest
+License: creative commons CC-BY-NC-SA
+-->
+<theme>
+  <formatVersion>7</formatVersion>
+
+<view name="system">
+
+	<carousel name="systemcarousel">
+	  <color>ffffff00</color>
+	  <size>1.5 1.0</size>
+	  <logoScale>2.5</logoScale>
+	  <logoSize>0.4 0.4</logoSize>
+	  <logoAlignment>center</logoAlignment>
+	  <maxLogoCount>3</maxLogoCount>
+	  <pos>-0.25 0.0</pos>
+	  <systemInfoDelay>0</systemInfoDelay>
+	  <transitionSpeed>600</transitionSpeed>
+	  <itemTemplate>
+	  <image name="theLogoImage">
+	  <path>{system:logo}</path>
+	  </image>
+	  </itemTemplate>
+	  <zIndex>2</zIndex>
+	</carousel>
+	
+	
+</view>
+
+
+
+  
+
+</theme>
