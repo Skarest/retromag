@@ -43,12 +43,10 @@ Thx & Credit
 
 - Thanks for all the helpful posts in the Batocera Discord channel.
 - Thanks to Dwayne Hurst for his YouTube videos that got the whole project going.
-
->> https://www.youtube.com/watch?v=1w1QQtXUtX0
+https://www.youtube.com/watch?v=1w1QQtXUtX0
 - All cover designs are scans and redesigns of original game packaging, partially edited with AI editing/enhancements.
 - All texts from wikipedia.de /.org
 - All Logo´s by Dan Patrick (Systemlogos)
-
->> https://forums.launchbox-app.com/files/file/3402-v2-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/
+https://forums.launchbox-app.com/files/file/3402-v2-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/
 - 
   
