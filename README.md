@@ -8,7 +8,8 @@ Carousel/ System View
 ![screen2](https://github.com/Skarest/retromag/assets/155885036/d211bfc9-b81e-4070-8abf-2822ea73ec7f)
 
 Detail/ Video View
-Available in German and English (magazine cover/texts)
+
+Available in german and english (magazine cover/texts)
 
 Finished systems:
 - Amiga
