@@ -39,6 +39,7 @@ Finished systems:
 - Sony Playstaion 2
 - Ports
 - Steam
+- FPinball
 
 Auto-Lists:
 - auto-allgames
