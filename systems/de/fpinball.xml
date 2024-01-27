@@ -1,0 +1,18 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>2005  ·  Simulator</text>
+		</text>
+		<text name="longdescription" extra="true">
+		<text>Future Pinball ist ein Simulator und Editor, der indirekt die Hardware emuliert, die in physischen Flipperautomaten zu finden ist. Tabellen werden mithilfe von 3D-Modellen entworfen, die im Editor gefunden werden, und mithilfe einer 3D-Echtzeit-Engine gerendert. Flipper-Tischlayout, Grafikdesign und Audio werden von den Benutzern während der Konstruktion und Entwicklung des Tischdesigns bereitgestellt.
+Mit Future Pinball können Benutzer originelle Tische erstellen, die auf einem Standardtisch basieren, der nur Flipper, Schleudern, Shooter-Lane und Shooter enthält. Zusätzliche Spielfeldkomponenten werden aus einer Bibliothek hinzugefügt, die Oberflächen, Führungen, Objekte, Gummi, Ziele, Lichter, Auslöser, Rampen und Displays enthält. Vom Benutzer erstellte Kunstwerke können dem Spielfeld, den Kunststoffen und der Hinterglas-Translite hinzugefügt werden.</text>
+</text>		
+		
+	</view>
+	
+</theme>

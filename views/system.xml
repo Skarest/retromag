@@ -53,12 +53,10 @@ License: creative commons CC-BY-NC-SA
 		
     <text name="fullName" extra="true">
 		<text>${system.fullName}</text>
-		<pos>0.1 0.134</pos>
+		<pos>0.1 0.15</pos>
 		<size>.25 .08</size>
 		<origin>0 1</origin>	
 		<alignment>left</alignment>
-		<verticalAlignment>bottom</verticalAlignment>
-		<lineSpacing>1.15</lineSpacing>
 		<color>${fontColor}</color>
 		<forceUppercase>true</forceUppercase>
 		<fontPath>${font1}</fontPath>
