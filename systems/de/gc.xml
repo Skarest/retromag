@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>2001  ·  32-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+			<text>Der Nintendo GameCube ist eine stationäre Spielkonsole des japanischen Konsolenherstellers und Videospielentwicklers Nintendo und Nachfolger des Nintendo 64. Er stand in direkter Konkurrenz zu Segas Dreamcast, Sonys PlayStation 2 und Microsofts Xbox. Er verkaufte sich weltweit etwa 21,74 Millionen Mal, bis der Verkauf im Jahre 2007 offiziell eingestellt wurde. Ursprünglich von Nintendo mit dem Ziel entwickelt, das Unternehmen wieder an die Spitze der Konsolenhersteller zu führen, musste der GameCube schon zur Veröffentlichung herbe Rückschläge einstecken: Die Verkaufszahlen lagen deutlich unter denen der PlayStation 2, mit Microsoft hatte Nintendo außerdem einen neuen starken Konkurrenten, vor allem in den USA, Nintendos traditionell stärkstem Markt. Dies führte zu weiterem Nachlassen der Verkäufe – bis ins dritte Jahr lagen die Verkaufszahlen des Nintendo GameCube und der Xbox in etwa gleich; ab 2004 knickten die Verkaufszahlen des Nintendo GameCube allerdings innerhalb weniger Monate ein.</text>
+		</text>
+		
+	</view>
+	
+</theme>
