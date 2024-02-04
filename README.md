@@ -27,6 +27,7 @@ Finished systems:
 - Atari7800
 - C64
 - Mame
+- PC Engine
 - Sega Master System
 - Sega Mega Drive / Genesis
 - Sega MegaCD
