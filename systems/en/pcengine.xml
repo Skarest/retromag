@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1987  ·  16-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+		<text>The TurboGrafx-16, known as the PC Engine outside North America, is a home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was the first console marketed in the fourth generation, commonly known as the 16-bit era, though the console has an 8-bit central processing unit (CPU) coupled with a 16-bit graphics processor. It was released in Japan in 1987 and in North America in 1989. In Europe, the console is known as the PC Engine, after the Japanese model was imported and distributed in the United Kingdom and France from 1988. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super NES.The console has an 8-bit CPU and a dual 16-bit graphics processing unit (GPU) chipset consisting of a video display controller (VDC) and video color encoder.</text>
+		</text>
+		
+	</view>
+	
+</theme>

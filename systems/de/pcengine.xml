@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>7</formatVersion>
+	
+
+	<view name="system">
+	
+         
+		<text name="shortdescription" extra="true">
+			<text>1987  ·  16-bit Console</text>
+		</text>
+		<text name="longdescription" extra="true">
+			<text>Die PC Engine ist eine stationäre 8/16-Bit-Spielkonsole von NEC. In den USA erschien sie als TurboGrafx-16. Sie wurde vom Spielehersteller Hudson produziert. Die PC Engine kam 1987 auf den japanischen Markt und bestach durch ihre für die damalige Zeit besonderen Grafik- und Soundmöglichkeiten. Sie wird meist zu den 16-Bit-Geräten gezählt, da der Grafikprozessor über eine 16-Bit-Struktur verfügte. Vertrieben wurde die Konsole bis 1994 unter verschiedenen Namen in vielen verschiedenen Modellvarianten, die sich meist aber kaum vom Ur-Gerät unterschieden. Auf dem europäischen Markt war das Gerät 1990 nur für kurze Zeit unter dem Namen TurboGrafx in Großbritannien und Spanien erhältlich. Der Verkauf dieser PAL-Variante musste bereits kurze Zeit später aus vertriebsrechtlichen Gründen eingestellt werden.</text>
+		</text>
+		
+	</view>
+	
+</theme>
