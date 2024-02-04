@@ -34,6 +34,7 @@ Finished systems:
 - Sega Saturn
 - Nintendo N64
 - Nintendo Entertainment System
+- Nintendo GameCube
 - Super Nintendo Entertainment System
 - Sony Playstation
 - Sony Playstaion 2
